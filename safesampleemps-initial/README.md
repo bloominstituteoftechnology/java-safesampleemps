@@ -242,7 +242,7 @@ Using the provided seed data, the given endpoint will produce the stated output.
 {
     "title": "Resource Not Found",
     "status": 404,
-    "detail": "Error from a Lambda School Application Employee 777 Not Found",
+    "detail": "Error from a BloomTech Application Employee 777 Not Found",
     "timestamp": "2020-07-21 15:49:05",
     "developerMessage": "com.lambdaschool.sampleemps.exceptions.ResourceNotFoundException",
     "errors": []
